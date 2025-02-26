@@ -3,9 +3,13 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ### Survey
 * [arXiv 2024] AI-Driven Innovations in Volumetric Video Streaming: A Review [(Paper)](https://arxiv.org/abs/2412.12208)
+* [arXiv 2023] From Capture to Display: A Survey on Volumetric Video [(Paper)](https://arxiv.org/abs/2309.05658)
+* [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
 
 ### Point Cloud-based Streaming
+* [VR 2023] CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming [(Paper)](https://ieeexplore.ieee.org/document/10108421)
 * [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
+* [IEEE TMM 2022] Optimal Volumetric Video Streaming With Hybrid Saliency Based Tiling [(Paper)](https://ieeexplore.ieee.org/document/9720162)
 
 ### Point Cloud-based Mobile Streaming
 * [IEEE TMC 2024] Bandwidth-Efficient Mobile Volumetric Video Streaming by Exploiting Inter-Frame Correlation [(Paper)](https://dl.acm.org/doi/10.1109/TMC.2024.3367750)
@@ -14,6 +18,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [MobiSys 2024] Theia: Gaze-driven and Perception-aware Volumetric Content Delivery for Mixed Reality Headsets [(Paper)](https://dl.acm.org/doi/10.1145/3643832.3661858)
 * [MobiCom 2023] MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time [(Paper)](https://dl.acm.org/doi/10.1145/3570361.3592530)
 * [MobiCom 2022] Vues: practical mobile volumetric video streaming through multiview transcoding [(Paper)](https://dl.acm.org/doi/10.1145/3495243.3517027)
+* [HotMobile 2021] Efficient Volumetric Video Streaming Through Super Resolution [(Paper)](https://dl.acm.org/doi/10.1145/3446382.3448663)
 * [MobiCom 2020] ViVo: visibility-aware mobile volumetric video streaming [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3380888)
 * [MobiCom 2020] GROOT: a real-time streaming system of high-fidelity volumetric videos [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3419214)
 
