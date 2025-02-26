@@ -34,8 +34,8 @@ A list of recent literature on volumetric video streaming published in major ven
 
 
 ### NeRF-based Mobile Streaming
-* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 * [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
+* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
 ### Dynamic 3DGS
 
