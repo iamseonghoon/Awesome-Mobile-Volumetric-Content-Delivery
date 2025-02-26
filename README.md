@@ -1,7 +1,7 @@
 # Awesome-Volumetric-Video-Streaming
 A list of recent literature on volumetric video streaming published in major venues. My research interests lie in mobile streaming, but this list also includes non-mobile systems if necessary.
 
-### Survey
+## Survey
 * [arXiv 2024] AI-Driven Innovations in Volumetric Video Streaming: A Review [(Paper)](https://arxiv.org/abs/2412.12208)
 * [arXiv 2023] From Capture to Display: A Survey on Volumetric Video [(Paper)](https://arxiv.org/abs/2309.05658)
 * [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
