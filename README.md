@@ -6,6 +6,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [arXiv 2023] From Capture to Display: A Survey on Volumetric Video [(Paper)](https://arxiv.org/abs/2309.05658)
 * [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
 
+## Fixed Representations: Point Cloud, Mesh, Voxel, etc.
 ### Point Cloud-based Streaming
 * [VR 2023] CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming [(Paper)](https://ieeexplore.ieee.org/document/10108421)
 * [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
@@ -28,9 +29,18 @@ A list of recent literature on volumetric video streaming published in major ven
 ### Voxel-based Mobile Streaming
 * [ACM MobiCom 2023] FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [(Paper)](https://dl.acm.org/doi/abs/10.1145/3570361.3592525)
 
+## Learnable Representations: NeRF, 3DGS, etc.
+### Dynamic NeRF
+
+
 ### NeRF-based Mobile Streaming
-* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [paper](https://dl.acm.org/doi/10.1145/3609395.3610593)
+* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
+* [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
+
+### Dynamic 3DGS
 
 
-### 3D Gaussian Splatting-based
+### Dynamic 3DGS-based Mobile Streaming
+* [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Web)](https://authoritywang.github.io/v3/)
+
 
