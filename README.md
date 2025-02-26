@@ -9,6 +9,7 @@ A list of recent literature on volumetric video streaming published in major ven
 ## Fixed Representations: Point Cloud, Mesh, Voxel, etc.
 ### Point Cloud-based Streaming
 * [VR 2023] CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming [(Paper)](https://ieeexplore.ieee.org/document/10108421)
+* [MM 2023] Understanding User Behavior in Volumetric Video Watching: Dataset, Analysis and Prediction [(Paper)](https://dl.acm.org/doi/abs/10.1145/3581783.3613810)
 * [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
 * [IEEE TMM 2022] Optimal Volumetric Video Streaming With Hybrid Saliency Based Tiling [(Paper)](https://ieeexplore.ieee.org/document/9720162)
 
@@ -31,14 +32,14 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ## Learnable Representations: NeRF, 3DGS, etc.
 ### Dynamic NeRF
-
+* [ICCV 2021] Neural Radiance Flow for 4D View Synthesis and Video Processing [(Paper)](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Neural_Radiance_Flow_for_4D_View_Synthesis_and_Video_Processing_ICCV_2021_paper.html)
 
 ### NeRF-based Mobile Streaming
 * [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
 * [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
 ### Dynamic 3DGS
-
+* [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Web)](https://guanjunwu.github.io/4dgs/)
 
 ### Dynamic 3DGS-based Mobile Streaming
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Web)](https://authoritywang.github.io/v3/)
