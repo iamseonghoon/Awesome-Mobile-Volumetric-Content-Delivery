@@ -6,7 +6,8 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ## Point Cloud
 ### Streaming
-* [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming (https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
+* [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming
+(https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
 
 #### Mobile Streaming
 * [IEEE TMC 2024] Bandwidth-Efficient Mobile Volumetric Video Streaming by Exploiting Inter-Frame Correlation (https://dl.acm.org/doi/10.1109/TMC.2024.3367750)
