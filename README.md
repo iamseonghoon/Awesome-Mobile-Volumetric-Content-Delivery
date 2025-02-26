@@ -6,19 +6,18 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ## Point Cloud
 ### Streaming
-* [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming
-(https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
+* [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming [paper](https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
 
 #### Mobile Streaming
-* [IEEE TMC 2024] Bandwidth-Efficient Mobile Volumetric Video Streaming by Exploiting Inter-Frame Correlation (https://dl.acm.org/doi/10.1109/TMC.2024.3367750)
-  * [MM 2023] Hermes: Leveraging Implicit Inter-Frame Correlation for Bandwidth-Efficient Mobile Volumetric Video Streaming (https://dl.acm.org/doi/10.1145/3581783.3613907)
-* [MobiCom 2024] MuV2: Scaling up Multi-user Mobile Volumetric Video Streaming via Content Hybridization and Sharing (https://dl.acm.org/doi/10.1145/3636534.3649364)
-* [MobiSys 2024] Theia: Gaze-driven and Perception-aware Volumetric Content Delivery for Mixed Reality Headsets (https://dl.acm.org/doi/10.1145/3643832.3661858)
-* [MobiSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication (https://dl.acm.org/doi/10.1145/3666025.3699344)
-* [MobiCom 2023] MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time (https://dl.acm.org/doi/10.1145/3570361.3592530)
-* [MobiCom 2022] Vues: practical mobile volumetric video streaming through multiview transcoding (https://dl.acm.org/doi/10.1145/3495243.3517027)
-* [MobiCom 2020] ViVo: visibility-aware mobile volumetric video streaming (https://dl.acm.org/doi/10.1145/3372224.3380888)
-* [MobiCom 2020] GROOT: a real-time streaming system of high-fidelity volumetric videos (https://dl.acm.org/doi/10.1145/3372224.3419214)
+* [IEEE TMC 2024] Bandwidth-Efficient Mobile Volumetric Video Streaming by Exploiting Inter-Frame Correlation [paper](https://dl.acm.org/doi/10.1109/TMC.2024.3367750)
+  * [MM 2023] Hermes: Leveraging Implicit Inter-Frame Correlation for Bandwidth-Efficient Mobile Volumetric Video Streaming [paper](https://dl.acm.org/doi/10.1145/3581783.3613907)
+* [MobiCom 2024] MuV2: Scaling up Multi-user Mobile Volumetric Video Streaming via Content Hybridization and Sharing [paper](https://dl.acm.org/doi/10.1145/3636534.3649364)
+* [MobiSys 2024] Theia: Gaze-driven and Perception-aware Volumetric Content Delivery for Mixed Reality Headsets [paper](https://dl.acm.org/doi/10.1145/3643832.3661858)
+* [MobiSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [paper](https://dl.acm.org/doi/10.1145/3666025.3699344)
+* [MobiCom 2023] MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time [paper](https://dl.acm.org/doi/10.1145/3570361.3592530)
+* [MobiCom 2022] Vues: practical mobile volumetric video streaming through multiview transcoding [paper](https://dl.acm.org/doi/10.1145/3495243.3517027)
+* [MobiCom 2020] ViVo: visibility-aware mobile volumetric video streaming [paper](https://dl.acm.org/doi/10.1145/3372224.3380888)
+* [MobiCom 2020] GROOT: a real-time streaming system of high-fidelity volumetric videos [paper](https://dl.acm.org/doi/10.1145/3372224.3419214)
 
 
 ## Mesh, Voxel
@@ -26,7 +25,7 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ## NeRF
 #### Mobile Streaming
-* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation (https://dl.acm.org/doi/10.1145/3609395.3610593)
+* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [paper](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
 
 ## 3D Gaussian Splatting
