@@ -41,6 +41,9 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ### Dynamic 3DGS, 4DGS
 * [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Web)](https://guanjunwu.github.io/4dgs/)
+* [CVPR 2024] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [(Paper)](https://arxiv.org/pdf/2312.16812)
+* [3DV 2024] Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [(Paper)](https://ieeexplore.ieee.org/abstract/document/10550869)
+* [ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [(Paper)](https://arxiv.org/pdf/2310.10642)
 
 ### 3DGS-based Mobile Streaming
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Web)](https://authoritywang.github.io/v3/)
