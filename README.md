@@ -13,14 +13,14 @@ A list of recent literature on volumetric video streaming published in major ven
   * [MM 2023] Hermes: Leveraging Implicit Inter-Frame Correlation for Bandwidth-Efficient Mobile Volumetric Video Streaming [(Paper)](https://dl.acm.org/doi/10.1145/3581783.3613907)
 * [MobiCom 2024] MuV2: Scaling up Multi-user Mobile Volumetric Video Streaming via Content Hybridization and Sharing [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3649364)
 * [MobiSys 2024] Theia: Gaze-driven and Perception-aware Volumetric Content Delivery for Mixed Reality Headsets [(Paper)](https://dl.acm.org/doi/10.1145/3643832.3661858)
-* [MobiSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
 * [MobiCom 2023] MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time [(Paper)](https://dl.acm.org/doi/10.1145/3570361.3592530)
 * [MobiCom 2022] Vues: practical mobile volumetric video streaming through multiview transcoding [(Paper)](https://dl.acm.org/doi/10.1145/3495243.3517027)
 * [MobiCom 2020] ViVo: visibility-aware mobile volumetric video streaming [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3380888)
 * [MobiCom 2020] GROOT: a real-time streaming system of high-fidelity volumetric videos [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3419214)
 
 ## Mesh
-
+### Mobils Streaming
+* [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
 
 ## Voxel
 ### Mobile Streaming
