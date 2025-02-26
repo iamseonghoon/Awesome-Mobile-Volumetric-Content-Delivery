@@ -23,9 +23,9 @@ A list of recent literature on volumetric video streaming published in major ven
 ### Voxel-based Mobile Streaming
 * [ACM MobiCom 2023] FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [(Paper)](https://dl.acm.org/doi/abs/10.1145/3570361.3592525)
 
-## NeRF-based Mobile Streaming
+### NeRF-based Mobile Streaming
 * [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [paper](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
 
-## 3D Gaussian Splatting-based
+### 3D Gaussian Splatting-based
 
