@@ -31,14 +31,14 @@ A list of recent literature on volumetric video streaming published in major ven
 * [ACM MobiCom 2023] FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [(Paper)](https://dl.acm.org/doi/abs/10.1145/3570361.3592525)
 
 ## Learnable Representations: NeRF, 3DGS, etc.
-### Dynamic NeRF
+### Dynamic NeRF, 4D NeRF
 * [ICCV 2021] Neural Radiance Flow for 4D View Synthesis and Video Processing [(Paper)](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Neural_Radiance_Flow_for_4D_View_Synthesis_and_Video_Processing_ICCV_2021_paper.html)
 
 ### NeRF-based Mobile Streaming
 * [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
 * [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
-### Dynamic 3DGS
+### Dynamic 3DGS, 4DGS
 * [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Web)](https://guanjunwu.github.io/4dgs/)
 
 ### Dynamic 3DGS-based Mobile Streaming
