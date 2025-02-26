@@ -42,6 +42,5 @@ A list of recent literature on volumetric video streaming published in major ven
 
 ### Dynamic 3DGS-based Mobile Streaming
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Web)](https://authoritywang.github.io/v3/)
-  * 3 DoF
 
 
