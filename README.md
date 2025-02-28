@@ -23,7 +23,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [HotMobile 2021] Efficient Volumetric Video Streaming Through Super Resolution [(Paper)](https://dl.acm.org/doi/10.1145/3446382.3448663)
 * [MobiCom 2020] ViVo: visibility-aware mobile volumetric video streaming [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3380888)
 * [MobiCom 2020] GROOT: a real-time streaming system of high-fidelity volumetric videos [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3419214)
-* [HotMobile 2019] Toward Practical Volumetric Video Streaming OnCommoditySmartphones [(Paper)](https://dl.acm.org/doi/abs/10.1145/3301293.3302358)
+* [HotMobile 2019] Toward Practical Volumetric Video Streaming On Commodity Smartphones [(Paper)](https://dl.acm.org/doi/abs/10.1145/3301293.3302358)
 
 ### Mesh-based Mobile Streaming
 * [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
