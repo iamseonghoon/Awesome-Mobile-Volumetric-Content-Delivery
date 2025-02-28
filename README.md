@@ -11,6 +11,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [MM 2023] Understanding User Behavior in Volumetric Video Watching: Dataset, Analysis and Prediction [(Paper)](https://dl.acm.org/doi/abs/10.1145/3581783.3613810)
 * [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
 * [IEEE TMM 2022] Optimal Volumetric Video Streaming With Hybrid Saliency Based Tiling [(Paper)](https://ieeexplore.ieee.org/document/9720162)
+* [ATSIP 2020] An overview of ongoing point cloud compression standardization activities: video-based (V-PCC) and geometry-based (G-PCC) [(Paper)](http://dx.doi.org/10.1017/ATSIP.2020.12)
 
 ### Point Cloud-based Mobile Streaming
 * [IEEE TMC 2024] Bandwidth-Efficient Mobile Volumetric Video Streaming by Exploiting Inter-Frame Correlation [(Paper)](https://dl.acm.org/doi/10.1109/TMC.2024.3367750)
