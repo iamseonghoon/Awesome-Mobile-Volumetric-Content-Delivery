@@ -25,11 +25,12 @@ A list of recent literature on volumetric video streaming published in major ven
 * [MobiCom 2020] ViVo: visibility-aware mobile volumetric video streaming [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3380888)
 * [HotMobile 2019] Toward Practical Volumetric Video Streaming On Commodity Smartphones [(Paper)](https://dl.acm.org/doi/abs/10.1145/3301293.3302358)
 
-### Mesh-based Mobile Streaming
-* [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
-
 ### Voxel-based Mobile Streaming
 * [ACM MobiCom 2023] FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [(Paper)](https://dl.acm.org/doi/abs/10.1145/3570361.3592525)
+
+### Mesh-based Mobile Streaming
+* [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
+* [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
 
 ### NeRF/3DGS-based Videos in AI Venues
 * [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Project)](https://guanjunwu.github.io/4dgs/)
@@ -43,6 +44,5 @@ A list of recent literature on volumetric video streaming published in major ven
 ### NeRF/3DGS-based (Mobile) Streaming
 * [MM 2024] FSVFG: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid [(Paper)](https://dl.acm.org/doi/10.1145/3664647.3680908)
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Project)](https://authoritywang.github.io/v3/)
-* [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
 * [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
