@@ -7,6 +7,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
 
 ### Point Cloud-based Streaming
+* [NSDI 2024] Habitus: Boosting Mobile Immersive Content Delivery through Full-body Pose Tracking and Multipath Networking [(Paper)](https://www.usenix.org/conference/nsdi24/presentation/zhang-anlan)
 * [VR 2023] CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming [(Paper)](https://ieeexplore.ieee.org/document/10108421)
 * [MM 2023] Understanding User Behavior in Volumetric Video Watching: Dataset, Analysis and Prediction [(Paper)](https://dl.acm.org/doi/abs/10.1145/3581783.3613810)
 * [NSDI 2022] YuZu: Neural-Enhanced Volumetric Video Streaming [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan)
@@ -44,5 +45,6 @@ A list of recent literature on volumetric video streaming published in major ven
 ### NeRF/3DGS-based (Mobile) Streaming
 * [MM 2024] FSVFG: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid [(Paper)](https://dl.acm.org/doi/10.1145/3664647.3680908)
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Project)](https://authoritywang.github.io/v3/)
-* [SIGCOMM EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
+* [MobiCom > ImmerCom 2023] Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations [(Paper)](https://dl.acm.org/doi/abs/10.1145/3615452.3617938)
+* [SIGCOMM > EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
