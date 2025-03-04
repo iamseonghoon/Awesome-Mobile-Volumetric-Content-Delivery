@@ -6,6 +6,11 @@ A list of recent literature on volumetric video streaming published in major ven
 * [arXiv 2023] From Capture to Display: A Survey on Volumetric Video [(Paper)](https://arxiv.org/abs/2309.05658)
 * [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
 
+### Dataset
+* [CVPR 2022] Neural 3D Video Synthesis from Multi-view Video [(Paper)](https://ieeexplore.ieee.org/abstract/document/9878989) [(Project)](https://neural-3d-video.github.io/) 
+* [IEEE TPAMI 2017] Panoptic Studio: A Massively Multiview System for Social Interaction Capture [(Paper)](https://ieeexplore.ieee.org/abstract/document/8187699) [(Dataset)](http://domedb.perception.cs.cmu.edu/index.html)
+* [2018] [8i Dataset](https://mpeg-pcc.org/index.php/pcc-content-database/8i-voxelized-surface-light-field-8ivslf-dataset/)
+
 ### Point Cloud-based Streaming
 * [NSDI 2024] Habitus: Boosting Mobile Immersive Content Delivery through Full-body Pose Tracking and Multipath Networking [(Paper)](https://www.usenix.org/conference/nsdi24/presentation/zhang-anlan)
 * [VR 2023] CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming [(Paper)](https://ieeexplore.ieee.org/document/10108421)
