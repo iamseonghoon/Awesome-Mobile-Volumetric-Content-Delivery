@@ -7,7 +7,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
 
 ### Dataset
-* [CVPR 2022] Neural 3D Video Synthesis from Multi-view Video [(Paper)](https://ieeexplore.ieee.org/abstract/document/9878989) [(Project)](https://neural-3d-video.github.io/) 
+* [CVPR 2022] Neural 3D Video Synthesis from Multi-view Video [(Paper)](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Neural_3D_Video_Synthesis_From_Multi-View_Video_CVPR_2022_paper.pdf) [(Project)](https://neural-3d-video.github.io/) 
 * [IEEE TPAMI 2017] Panoptic Studio: A Massively Multiview System for Social Interaction Capture [(Paper)](https://ieeexplore.ieee.org/abstract/document/8187699) [(Dataset)](http://domedb.perception.cs.cmu.edu/index.html)
 * Microsoft Voxelized Upper Bodies - A Voxelized Point Cloud Dataset [(Dataset)](https://plenodb.jpeg.org/pc/microsoft/)
 * 8i Voxelized Full Bodies – A Voxelized Point Cloud Dataset [(Dataset)](https://jpeg.org/plenodb/pc/8ilabs/)
