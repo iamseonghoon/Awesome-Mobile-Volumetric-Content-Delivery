@@ -42,6 +42,7 @@ A list of recent literature on volumetric video streaming published in major ven
 ### NeRF/3DGS-based Videos in AI Venues
 * [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Project)](https://guanjunwu.github.io/4dgs/)
 * [CVPR 2024] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [(Paper)](https://arxiv.org/pdf/2312.16812)
+* [CVPR 2024] Compact 3D Gaussian Representation for Radiance Field [(Paper)](https://ieeexplore.ieee.org/abstract/document/10655367/) [(Project)](https://maincold2.github.io/c3dgs/)
 * [CVPR 2024] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_3DGStream_On-the-Fly_Training_of_3D_Gaussians_for_Efficient_Streaming_of_CVPR_2024_paper.pdf) [(Project)](https://sjojok.top/3dgstream/)
 * [3DV 2024] Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [(Paper)](https://ieeexplore.ieee.org/abstract/document/10550869) [(Project)](https://dynamic3dgaussians.github.io/)
 * [ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [(Paper)](https://arxiv.org/pdf/2310.10642)
