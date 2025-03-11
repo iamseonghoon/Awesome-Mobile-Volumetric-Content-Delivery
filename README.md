@@ -39,7 +39,7 @@ A list of recent literature on volumetric video streaming published in major ven
 * [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
 * [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
 
-### NeRF/3DGS-based Videos in AI Venues
+### Dynamic NeRF/3DGS
 * [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Project)](https://guanjunwu.github.io/4dgs/)
 * [CVPR 2024] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [(Paper)](https://arxiv.org/pdf/2312.16812)
 * [CVPR 2024] Compact 3D Gaussian Representation for Radiance Field [(Paper)](https://ieeexplore.ieee.org/abstract/document/10655367/) [(Project)](https://maincold2.github.io/c3dgs/)
