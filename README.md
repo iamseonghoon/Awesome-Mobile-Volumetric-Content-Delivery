@@ -36,21 +36,28 @@ A list of recent literature on volumetric video streaming published in major ven
 ### Voxel-based Mobile Streaming
 * [ACM MobiCom 2023] FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [(Paper)](https://dl.acm.org/doi/abs/10.1145/3570361.3592525)
 
-### Mesh-based Mobile Streaming
+### Mesh-based (Mobile) Streaming
+* [VR 2024] MeshReduce: Scalable and Bandwidth Efficient 3D Scene Capture [(Paper)](https://ieeexplore.ieee.org/document/10494107)
 * [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
 * [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
 
-### Dynamic NeRF/3DGS
-* [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Project)](https://guanjunwu.github.io/4dgs/)
-* [CVPR 2024] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [(Paper)](https://arxiv.org/pdf/2312.16812)
-* [CVPR 2024] Compact 3D Gaussian Representation for Radiance Field [(Paper)](https://ieeexplore.ieee.org/abstract/document/10655367/) [(Project)](https://maincold2.github.io/c3dgs/)
+### Dynamic NeRF
+* [IEEE TVGS 2023] NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields [(Paper)](https://ieeexplore.ieee.org/abstract/document/10049689)
+* [CVPR 2023] K-Planes: Explicit Radiance Fields in Space, Time, and Appearance [(Paper)](https://openaccess.thecvf.com/content/CVPR2023/html/Fridovich-Keil_K-Planes_Explicit_Radiance_Fields_in_Space_Time_and_Appearance_CVPR_2023_paper.html)
+* [CVPR 2023] HexPlane: A Fast Representation for Dynamic Scenes [(Paper)](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_HexPlane_A_Fast_Representation_for_Dynamic_Scenes_CVPR_2023_paper.html)
+* [CVPR 2023] (ReRF) Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos [(Paper)](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Neural_Residual_Radiance_Fields_for_Streamably_Free-Viewpoint_Videos_CVPR_2023_paper.html)
+* [CVPR 2022] (Dynamic NeRF) Neural 3D Video Synthesis From Multi-View Video [(Paper)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Neural_3D_Video_Synthesis_From_Multi-View_Video_CVPR_2022_paper.html)
+* [ICCV 2021] (NeRF) Neural Radiance Flow for 4D View Synthesis and Video Processing [(Paper)](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Neural_Radiance_Flow_for_4D_View_Synthesis_and_Video_Processing_ICCV_2021_paper.html)
+
+### Dynamic 3DGS
+* [CVPR 2024] (4DGS) 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html) [(Project)](https://guanjunwu.github.io/4dgs/)
+* [CVPR 2024] (STG) Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [(Paper)](https://arxiv.org/pdf/2312.16812)
 * [CVPR 2024] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_3DGStream_On-the-Fly_Training_of_3D_Gaussians_for_Efficient_Streaming_of_CVPR_2024_paper.pdf) [(Project)](https://sjojok.top/3dgstream/)
 * [3DV 2024] Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [(Paper)](https://ieeexplore.ieee.org/abstract/document/10550869) [(Project)](https://dynamic3dgaussians.github.io/)
 * [ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [(Paper)](https://arxiv.org/pdf/2310.10642)
-* [SIGGRAPH 2022] Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [(Paper)](https://dl.acm.org/doi/10.1145/3528223.3530127) [(Project)](https://nvlabs.github.io/instant-ngp/)
-* [ICCV 2021] Neural Radiance Flow for 4D View Synthesis and Video Processing [(Paper)](https://openaccess.thecvf.com/content/ICCV2021/html/Du_Neural_Radiance_Flow_for_4D_View_Synthesis_and_Video_Processing_ICCV_2021_paper.html)
 
 ### NeRF/3DGS-based (Mobile) Streaming
+* [HotMobile 2025] Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting [(Paper)](https://dl.acm.org/doi/abs/10.1145/3708468.3711886)
 * [MM 2024] FSVFG: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid [(Paper)](https://dl.acm.org/doi/10.1145/3664647.3680908)
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Project)](https://authoritywang.github.io/v3/)
 * [MobiCom > ImmerCom 2023] Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations [(Paper)](https://dl.acm.org/doi/abs/10.1145/3615452.3617938)
