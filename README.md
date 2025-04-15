@@ -1,4 +1,4 @@
-# Awesome-Volumetric-Video-Streaming
+# Awesome-Volumetric-Video-Delivery
 A list of recent literature on volumetric video streaming published in major venues. My research interests lie in mobile computing, but this list also includes papers for non-mobile platforms, if necessary.
 
 ### Survey
