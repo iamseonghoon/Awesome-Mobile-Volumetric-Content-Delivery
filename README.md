@@ -77,6 +77,7 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 
 ### NeRF/3DGS-based Mobile Video Streaming
 * [MobiSys 2025] NeRFlow: Towards Adaptive Streaming for NeRF Videos [(Paper)]
+  * NeRF
 * [HotMobile 2025] Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting [(Paper)](https://dl.acm.org/doi/abs/10.1145/3708468.3711886)
   * 3DGS
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Project)](https://authoritywang.github.io/v3/)
