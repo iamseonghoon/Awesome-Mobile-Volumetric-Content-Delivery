@@ -13,7 +13,7 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 * Microsoft Voxelized Upper Bodies - A Voxelized Point Cloud Dataset [(Dataset)](https://plenodb.jpeg.org/pc/microsoft/)
 * 8i Voxelized Full Bodies – A Voxelized Point Cloud Dataset [(Dataset)](https://jpeg.org/plenodb/pc/8ilabs/)
 
-### Point Cloud-based Video Streaming
+### Point Cloud-based Video Streaming (Non-Mobile)
 * [NSDI 2024] Habitus: Boosting Mobile Immersive Content Delivery through Full-body Pose Tracking and Multipath Networking [(Paper)](https://www.usenix.org/conference/nsdi24/presentation/zhang-anlan)
 * [VR 2023] CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming [(Paper)](https://ieeexplore.ieee.org/document/10108421)
 * [MM 2023] Understanding User Behavior in Volumetric Video Watching: Dataset, Analysis and Prediction [(Paper)](https://dl.acm.org/doi/abs/10.1145/3581783.3613810)
@@ -45,6 +45,14 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 * [MobiCom 2024] An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices [(Paper)](https://dl.acm.org/doi/10.1145/3636534.3690685)
 * [SenSys 2024] MagicStream: Bandwidth-conserving Immersive Telepresence via Semantic Communication [(Paper)](https://dl.acm.org/doi/10.1145/3666025.3699344)
 
+
+### Mobile NeRF/3DGS Serving for Static 3D Scenes
+* [MobiCom 2025] L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery [(Paper)]
+  * 3DGS
+* [MobiSys 2024] NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications [(Paper)](https://dl.acm.org/doi/10.1145/3643832.3661879)
+  * NeRF
+
+
 ### Dynamic NeRF
 * [IEEE TVGS 2023] NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields [(Paper)](https://ieeexplore.ieee.org/abstract/document/10049689)
 * [CVPR 2023] K-Planes: Explicit Radiance Fields in Space, Time, and Appearance [(Paper)](https://openaccess.thecvf.com/content/CVPR2023/html/Fridovich-Keil_K-Planes_Explicit_Radiance_Fields_in_Space_Time_and_Appearance_CVPR_2023_paper.html)
@@ -60,10 +68,19 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 * [CVPR 2024] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [(Paper)](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_3DGStream_On-the-Fly_Training_of_3D_Gaussians_for_Efficient_Streaming_of_CVPR_2024_paper.pdf) [(Project)](https://sjojok.top/3dgstream/)
 * [3DV 2024] Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [(Paper)](https://ieeexplore.ieee.org/abstract/document/10550869) [(Project)](https://dynamic3dgaussians.github.io/)
 
-### NeRF/3DGS-based (Mobile) Video Streaming
-* [HotMobile 2025] Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting [(Paper)](https://dl.acm.org/doi/abs/10.1145/3708468.3711886)
+
+### NeRF/3DGS-based Video Streaming (Non-Mobile)
+* [ACM TOMM 2025] Implicit Representation-based Volumetric Video Streaming for Photorealistic Full-scene Experience [(Paper)](https://dl.acm.org/doi/10.1145/3728472)
+  * NeRF
 * [MM 2024] FSVFG: Towards Immersive Full-Scene Volumetric Video Streaming with Adaptive Feature Grid [(Paper)](https://dl.acm.org/doi/10.1145/3664647.3680908)
+  * NeRF
+
+### NeRF/3DGS-based Mobile Video Streaming
+* [MobiSys 2025] NeRFlow: Towards Adaptive Streaming for NeRF Videos [(Paper)]
+* [HotMobile 2025] Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting [(Paper)](https://dl.acm.org/doi/abs/10.1145/3708468.3711886)
+  * 3DGS
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Project)](https://authoritywang.github.io/v3/)
+  * 3DGS
 * [MobiCom > ImmerCom 2023] Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations [(Paper)](https://dl.acm.org/doi/abs/10.1145/3615452.3617938)
 * [SIGCOMM > EMS 2023] Mobile Volumetric Video Streaming System through Implicit Neural Representation [(Paper)](https://dl.acm.org/doi/10.1145/3609395.3610593)
 
