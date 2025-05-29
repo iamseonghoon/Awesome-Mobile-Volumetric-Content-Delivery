@@ -39,6 +39,7 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 
 ### Voxel-based Mobile Video Streaming
 * [ACM MobiCom 2023] FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [(Paper)](https://dl.acm.org/doi/abs/10.1145/3570361.3592525)
+  * 2D transmission
 
 ### Mesh-based (Mobile) Video Streaming
 * [VR 2024] MeshReduce: Scalable and Bandwidth Efficient 3D Scene Capture [(Paper)](https://ieeexplore.ieee.org/document/10494107)
