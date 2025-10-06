@@ -2,8 +2,8 @@
 A list of recent literature on volumetric video streaming and 3D content delivery published in major venues. My research interests lie in mobile computing, but this list also includes papers for non-mobile platforms, if necessary.
 
 ### Survey
-* [arXiv 2024] AI-Driven Innovations in Volumetric Video Streaming: A Review [(Paper)](https://arxiv.org/abs/2412.12208)
-* [arXiv 2023] From Capture to Display: A Survey on Volumetric Video [(Paper)](https://arxiv.org/abs/2309.05658)
+* [arXiv 2024] AI-Driven Innovations in Volumetric Video Streaming: A Review [(Preprint)](https://arxiv.org/abs/2412.12208)
+* [arXiv 2023] From Capture to Display: A Survey on Volumetric Video [(Preprint)](https://arxiv.org/abs/2309.05658)
 * [IEEE Network 2021] Point Cloud Video Streaming: Challenges and Solutions [(Paper)](https://ieeexplore.ieee.org/abstract/document/9537928)
 
 ### Dataset
@@ -48,7 +48,7 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 
 
 ### Mobile NeRF/3DGS Serving for Static 3D Scenes
-* [MobiCom 2025] L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery [(Paper)]
+* [MobiCom 2025] L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery [(Preprint)](https://arxiv.org/pdf/2504.05517)
   * 3DGS
 * [MobiSys 2024] NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications [(Paper)](https://dl.acm.org/doi/10.1145/3643832.3661879)
   * NeRF
