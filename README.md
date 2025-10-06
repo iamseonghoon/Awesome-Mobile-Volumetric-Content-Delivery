@@ -80,11 +80,11 @@ A list of recent literature on volumetric video streaming and 3D content deliver
 * [MobiCom 2025] Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting (To Appear)
   * 3DGS; Full-scene; On-smartphone rendering
 * [MobiCom 2025] NeVo: Advancing Volumetric Video Streaming with Neural Content Representation (To Appear)
-  * Neural rendering (Inspired by NeRF); Human bodies; Edge-assisted rendering
+  * Neural rendering (Inspired by NeRF); Edge-assisted rendering
 * [MobiSys 2025] Empilo: Realizing Immersive Mobile 3D Video Conferencing through Parameterized Communication [(Paper)](https://dl.acm.org/doi/10.1145/3711875.3729140)
   * Neural rendering (Inspired by NeRF); Human faces
 * [MobiSys 2025] NeRFlow: Towards Adaptive Streaming for NeRF Videos [(Paper)](https://dl.acm.org/doi/10.1145/3711875.3729160)
-  * NeRF; Human bodies;
+  * NeRF;
 * [HotMobile 2025] Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting [(Paper)](https://dl.acm.org/doi/abs/10.1145/3708468.3711886)
   * 3DGS
 * [SIGGRAPH ASIA 2024] V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians [(Paper)](https://dl.acm.org/doi/10.1145/3687935) [(Project)](https://authoritywang.github.io/v3/)
